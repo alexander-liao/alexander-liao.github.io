@@ -1,2 +1,2 @@
-# alexander_liao.github.io
+# alexander-liao.github.io
 Home site for Alexander Liao
